@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Admin - Divino Drinks</title>
+  <link rel="icon" href="imagens/favicon.ico" />
+  <link rel="stylesheet" href="./styles.css" />
+  <style>
+    .admin-container { padding: 40px 20px; max-width: 1000px; margin: 0 auto; }
+    .admin-section { background: var(--card); padding: 20px; margin-bottom: 20px; border-radius: var(--radius); border: 1px solid var(--line); }
+    .admin-section h2 { color: var(--gold); margin-bottom: 20px; }
+    .form-group { margin-bottom: 15px; }
+    .form-group label { display: block; margin-bottom: 5px; color: var(--text); }
+    .form-group input, .form-group textarea { width: 100%; padding: 10px; background: var(--bg); border: 1px solid var(--line); border-radius: 5px; color: var(--text); }
+    .card-item { background: var(--bg); padding: 15px; margin-bottom: 10px; border-radius: 5px; border: 1px solid var(--line); }
+    .card-item h3 { margin-top: 0; color: var(--gold); }
+    .btn-admin { background: var(--gold); color: #111; border: none; padding: 10px 15px; border-radius: 5px; cursor: pointer; margin-right: 10px; }
+    .btn-admin:hover { background: var(--gold-2); }
+    .btn-remove { background: #d9534f; color: white; border: none; padding: 5px 10px; border-radius: 3px; cursor: pointer; }
+    .preview { max-width: 100px; margin-top: 10px; }
+    .hero-badges { margin-top: 20px; }
+    .badge-item { display: flex; align-items: center; margin-bottom: 10px; }
+    .badge-item input { margin-left: 10px; }
+    .album-photos-list li { display: flex; align-items: center; margin-bottom: 5px; }
+    .album-photos-list input { flex-grow: 1; margin-right: 10px; }
+    .file-input-container { position: relative; margin-bottom: 10px; }
+    .file-input-button { background: var(--gold); color: #111; border: none; padding: 8px 12px; border-radius: 3px; cursor: pointer; font-size: 12px; }
+    .file-input-button:hover { background: var(--gold-2); }
+    .file-input-hidden { position: absolute; left: -9999px; }
+    .current-file { font-size: 12px; color: var(--text-light); margin-top: 5px; }
+    .photo-item { display: flex; align-items: center; margin-bottom: 10px; padding: 10px; background: var(--card); border: 1px solid var(--line); border-radius: 5px; }
+    .photo-preview { width: 80px; height: 60px; object-fit: cover; margin-right: 10px; border-radius: 3px; }
+    .photo-info { flex-grow: 1; }
+    .photo-url-display { font-size: 11px; color: var(--text-light); word-break: break-all; }
+  </style>
+</head>
+<body>
+  <div class="admin-container">
+    <h1 style="text-align: center; color: var(--gold);">Administração do Site - Divino Drinks</h1>
+    <a href="/logout" style="position: absolute; top: 20px; right: 20px;" class="btn-admin">Logout</a>
+
+    <details class="admin-section" open>
+      <summary><h2>Hero</h2></summary>
+      <div class="form-group">
+        <label>Imagem de fundo:</label>
+        <p style="font-size: 12px; color: var(--text-light); margin-top: -10px; margin-bottom: 10px;">Clique para carregar uma nova imagem do seu computador.</p>
+        <div class="file-input-container">
+          <button type="button" class="file-input-button" data-target-file="hero-bg-file">Selecionar Arquivo</button>
+          <input type="file" id="hero-bg-file" class="file-input-hidden" accept="image/*" data-hidden-input="hero-bg" data-preview="hero-bg-preview" />
+          <input type="hidden" id="hero-bg" />
+          <div class="current-file" id="hero-bg-current"></div>
+        </div>
+        <img id="hero-bg-preview" class="preview" alt="Preview" style="display:none;" />
+      </div>
+      <div class="form-group">
+        <label>Título:</label>
+        <textarea id="hero-title" rows="2"></textarea>
+      </div>
+      <div class="form-group">
+        <label>Subtítulo:</label>
+        <textarea id="hero-subtitle" rows="3"></textarea>
+      </div>
+      <div class="form-group">
+        <label for="hero-instagram-url">Link do Instagram:</label>
+        <input type="url" id="hero-instagram-url" placeholder="https://www.instagram.com/seu_usuario/">
+      </div>
+      <div class="form-group">
+        <label for="hero-whatsapp-phone">Número do WhatsApp (com código do país, sem + ou espaços):</label>
+        <input type="text" id="hero-whatsapp-phone" placeholder="5571999998888">
+      </div>
+      <div class="hero-badges">
+        <h3>Badges</h3>
+        <div id="hero-badges-list"></div>
+        <button class="btn-admin" id="add-hero-badge">Adicionar Badge</button>
+      </div>
+      <button class="btn-admin" id="save-hero">Salvar Hero</button>
+    </details>
+
+    <details class="admin-section">
+      <summary><h2>Quem Somos</h2></summary>
+      <div class="form-group">
+        <label>Descrição:</label>
+        <textarea id="about-desc" rows="5"></textarea>
+      </div>
+      <h3>Cards</h3>
+      <div id="about-cards"></div>
+      <button class="btn-admin" id="add-about-card">Adicionar Card</button>
+      <button class="btn-admin" id="save-about">Salvar Quem Somos</button>
+    </details>
+
+    <details class="admin-section">
+      <summary><h2>Serviços</h2></summary>
+      <h3>Cards</h3>
+      <div id="services-cards"></div>
+      <button class="btn-admin" id="add-service-card">Adicionar Serviço</button>
+      <button class="btn-admin" id="save-services">Salvar Serviços</button>
+    </details>
+
+    <details class="admin-section">
+      <summary><h2>Depoimentos</h2></summary>
+      <div id="testimonials-list"></div>
+      <button class="btn-admin" id="add-testimonial">Adicionar Depoimento</button>
+      <button class="btn-admin" id="save-testimonials">Salvar Depoimentos</button>
+    </details>
+
+    <details class="admin-section">
+      <summary><h2>Galeria</h2></summary>
+      <p style="font-size: 12px; color: var(--text-light);">
+        <strong>Capas dos Álbuns:</strong> Dimensão recomendada: 400x400 pixels (quadrada).<br>
+        <strong>Fotos dos Álbuns:</strong> Dimensão recomendada: 1200x800 pixels.
+      </p>
+      <div id="albums-list"></div>
+      <button class="btn-admin" id="add-album">Adicionar Álbum</button>
+      <button class="btn-admin" id="save-gallery">Salvar Galeria</button>
+    </details>
+
+    <details class="admin-section">
+      <summary><h2>Footer</h2></summary>
+      <div class="form-group">
+        <label for="footer-description-input">Descrição (abaixo da logo)</label>
+        <textarea id="footer-description-input" rows="3"></textarea>
+      </div>
+      <div class="form-group">
+        <label for="footer-contact">Email de Contato:</label>
+        <input type="text" id="footer-contact" />
+      </div>
+      <div class="form-group">
+        <label for="footer-phone">Telefone:</label>
+        <input type="text" id="footer-phone" />
+      </div>
+      <button class="btn-admin" id="save-footer">Salvar Footer</button>
+    </details>
+  </div>
+
+  <script src="admin.js" defer></script>
+</body>
+</html>
