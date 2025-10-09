@@ -3,41 +3,35 @@
 <head>
   <!-- SEO básico -->
   <meta charset="utf-8" />
+  <title>Divino Drinks</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Divino Drinks — Alta coquetelaria para eventos exclusivos</title>
   <meta name="description" content="Divino Drinks: serviço de alta coquetelaria para casamentos, formaturas, aniversários e inaugurações. Bar de excelência para eventos inesquecíveis." />
   <meta name="keywords" content="coquetelaria, bar para eventos, bartenders, casamentos, formaturas, aniversários, inaugurações, coquetéis, drinks" />
-  <link rel="canonical" href="https://www.seudominio.com/" />
-
+  
   <!-- Open Graph / Social -->
   <meta property="og:title" content="Divino Drinks — Alta coquetelaria para eventos exclusivos" />
   <meta property="og:description" content="Bar de excelência para quem valoriza o verdadeiro sabor da EXCELÊNCIA." />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://www.seudominio.com/" />
-  <meta property="og:image" content="https://www.seudominio.com/imagens/coquetelaria_luxo.webp" />
+  <meta property="og:url" content="https://www.divinodrinks.com.br/" />
+  <meta property="og:image" content="https://www.divinodrinks.com.br/imagens/coquetelaria_luxo.webp" />
   <meta name="twitter:card" content="summary_large_image" />
 
-  <!-- Favicon (substitua pelos seus arquivos) -->
+  <!-- Links -->
+  <link rel="canonical" href="https://www.divinodrinks.com.br/" />
   <link rel="icon" href="imagens/favicon.ico" />
-
-  <!-- Fonts (2–3 fontes) -->
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet" />
-
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
-  <!-- CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
   <link rel="stylesheet" href="./styles.css" />
 
-  <!-- JSON-LD (Organization + Service) -->
+  <!-- JSON-LD -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "Divino Drinks",
-    "url": "https://www.seudominio.com/",
-    "logo": "https://www.seudominio.com/logo.png",
+    "url": "https://www.divinodrinks.com.br/",
+    "logo": "https://www.divinodrinks.com.br/logo.png",
     "sameAs": []
   }
   </script>
@@ -52,39 +46,37 @@
   }
   </script>
 
-  <!-- Estilos para os ícones sociais no Hero -->
+  <!-- Estilos -->
   <style>
     .hero-socials {
       display: flex;
-      justify-content: center; /* Centraliza os ícones */
-      gap: 1.25rem; /* 20px */
-      margin-top: 1.5rem; /* 24px - Adiciona espaço acima */
+      justify-content: center;
+      gap: 1.25rem;
+      margin-top: 1.5rem;
     }
     .hero-socials a {
       color: #ffffff;
-      font-size: 1.5rem; /* 24px */
+      font-size: 1.5rem;
       transition: color 0.3s ease, transform 0.3s ease;
     }
     .hero-socials a:hover,
     .hero-socials a:focus {
-      color: #D4AF37; /* Cor dourada do tema */
+      color: #D4AF37;
       transform: scale(1.1);
     }
     .footer-socials {
       display: flex;
-      gap: 1rem; /* 16px */
-      margin-top: 1rem; /* 16px */
+      gap: 1rem;
+      margin-top: 1rem;
     }
     .footer-socials a {
       color: #ffffff;
-      font-size: 1.5rem; /* 24px */
+      font-size: 1.5rem;
       transition: color 0.3s ease;
     }
     .footer-socials a:hover {
-      color: #D4AF37; /* Cor dourada */
+      color: #D4AF37;
     }
-
-    /* Animação suave para o texto do Hero */
     @keyframes fadeInUp {
       from {
         opacity: 0;
@@ -96,33 +88,103 @@
       }
     }
     #hero-title, #hero-subtitle {
-      /* Inicia invisível para a animação funcionar */
       opacity: 0;
-      /* Aplica a animação */
       animation: fadeInUp 0.8s ease-out forwards;
     }
     #hero-subtitle {
-      animation-delay: 0.2s; /* Atraso para o subtítulo aparecer depois do título */
+      animation-delay: 0.2s;
     }
     @media (max-width: 768px) {
       .hero-socials {
         justify-content: center;
       }
     }
+    .nav a.active-link {
+      position: relative;
+      color: #D4AF37; /* Golden color */
+    }
+
+    .nav a.active-link::after {
+      content: '';
+      position: absolute;
+      bottom: -5px;
+      left: 0;
+      width: 100%;
+      height: 2px;
+      background-color: #D4AF37; /* Golden color */
+    }
+
+    /* Depoimentos Layout */
+    .testimonial-page {
+        display: flex;
+        flex-shrink: 0;
+        width: 100%;
+        gap: 2rem;
+        padding: 0 1rem;
+    }
+
+    .testimonials .testimonial {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        background: #fdfdfd;
+        padding: 2.5rem;
+        border-radius: 10px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.07);
+        border: 1px solid #eee;
+    }
+
+    .testimonials .testimonial-image img {
+        width: 220px;
+        height: 220px;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 4px solid #D4AF37;
+        margin: 0 auto 1.5rem;
+        display: block;
+    }
+
+    .testimonials .carousel-track {
+        display: flex;
+    }
+    
+    .testimonials blockquote {
+        font-style: italic;
+        color: #555;
+        margin: 1rem 0;
+    }
+
+    .testimonials figcaption {
+        font-weight: bold;
+        color: #333;
+    }
+
+    @media (max-width: 768px) {
+        .testimonial-page {
+            flex-direction: column;
+        }
+    }
   </style>
+</head>
+
 <body>
   <!-- Header -->
   <header class="header" id="topo" aria-label="Cabeçalho">
     <div class="container header-inner">
+      <a href="#" class="logo">
+        <img src="imagens/Logo/logo5.png" alt="Logo Divino Drinks">
+      </a>
+
       <button class="menu-toggle" aria-label="Abrir menu" aria-expanded="false">
         <span class="menu-bar"></span><span class="menu-bar"></span><span class="menu-bar"></span>
       </button>
 
-      <nav class="nav nav--left" aria-label="Menu principal">
+      <nav class="nav" aria-label="Menu principal">
         <ul>
           <li><a href="#quem-somos">A Divino</a></li>
           <li><a href="#homes">Serviços</a></li>
-          <li class="logo"><img src="imagens/Logo/logo5.png" alt="Logo Divino Drinks"></li> <!-- espaço para a logo -->
           <li><a href="#depoimentos">Depoimentos</a></li>
           <li><a href="#galeria">Galeria</a></li>
           <li><a href="#contato">Contato</a></li>
@@ -312,47 +374,50 @@
       <button class="carousel-control prev" aria-label="Anterior">‹</button>
 
       <div class="carousel-track" id="testimonials-track">
-        <figure class="testimonial">
-          <div class="testimonial-image">
-            <img src="imagens/Depoimento/depoimento1.webp" alt="Foto de Marina e Lucas">
-          </div>
-          <blockquote>
-            “Estão de parabéns! Uns drinks espetaculares! Eu não tomo álcool, mas meu marido que é espanhol ficou louco com as bebidas e me disse que a caipirinha foi a melhor que ele bebeu desde que viemos ao Brasil (estamos juntos há 21 anos). Imagine a delícia que ele achou.”
-          </blockquote>
-          <figcaption>— Marina & Lucas</figcaption>
-        </figure>
+        <div class="testimonial-page">
+            <figure class="testimonial">
+              <div class="testimonial-image">
+                <img src="imagens/Depoimento/depoimento1.webp" alt="Foto de Marina e Lucas">
+              </div>
+              <blockquote>
+                “Estão de parabéns! Uns drinks espetaculares! Eu não tomo álcool, mas meu marido que é espanhol ficou louco com as bebidas e me disse que a caipirinha foi a melhor que ele bebeu desde que viemos ao Brasil (estamos juntos há 21 anos). Imagine a delícia que ele achou.”
+              </blockquote>
+              <figcaption>— Marina & Lucas</figcaption>
+            </figure>
 
-        <figure class="testimonial">
-          <div class="testimonial-image">
-            <img src="imagens/Depoimento/depoimento2.webp" alt="Foto de Marcelo M.">
-          </div>
-          <blockquote>
-            <p>“O bar foi o ponto alto do casamento. Drinks impecáveis e equipe atenciosa. Agilidade e padrão altíssimo durante a festa inteira”</p>
-          </blockquote>
-          <figcaption>— Marcelo M.</figcaption>
-        </figure>
+            <figure class="testimonial">
+              <div class="testimonial-image">
+                <img src="imagens/Depoimento/depoimento2.webp" alt="Foto de Marcelo M.">
+              </div>
+              <blockquote>
+                <p>“O bar foi o ponto alto do casamento. Drinks impecáveis e equipe atenciosa. Agilidade e padrão altíssimo durante a festa inteira”</p>
+              </blockquote>
+              <figcaption>— Marcelo M.</figcaption>
+            </figure>
+        </div>
 
-        <figure class="testimonial">
-          <div class="testimonial-image">
-            <img src="imagens/Depoimento/depoimento3.webp" alt="Foto de Gabriela M.">
-          </div>
-          <blockquote>
-            “Desde o primeiro contato, fiquei impressionado com o profissionalismo e atenção da equipe. No evento, cada detalhe foi impecável — dos drinks autorais ao cuidado com os convidados. Recebemos elogios a noite inteira e, sinceramente, já estamos pensando no próximo!”
-          </blockquote>
-          <figcaption>— Gabriela M.</figcaption>
-        </figure>
+        <div class="testimonial-page">
+            <figure class="testimonial">
+              <div class="testimonial-image">
+                <img src="imagens/Depoimento/depoimento3.webp" alt="Foto de Gabriela M.">
+              </div>
+              <blockquote>
+                “Desde o primeiro contato, fiquei impressionado com o profissionalismo e atenção da equipe. No evento, cada detalhe foi impecável — dos drinks autorais ao cuidado com os convidados. Recebemos elogios a noite inteira e, sinceramente, já estamos pensando no próximo!”
+              </blockquote>
+              <figcaption>— Gabriela M.</figcaption>
+            </figure>
 
-        <figure class="testimonial">
-          <div class="testimonial-image">
-            <img src="imagens/Depoimento/depoimento4.webp" alt="Foto de Luiza R.">
-          </div>
-          <blockquote>
-            “Sério, eu nem sei por onde começar! Cada drink era mais lindo que o outro (e eu juro que experimentei TODOS 😅). A galera do bar era tão gente boa que parecia parte da festa. Já quero repetir, porque a noite foi simplesmente perfeita!”
-          </blockquote>
-          <figcaption>— Luiza R.</figcaption>
-        </figure>
-
-        <!-- Você pode adicionar mais depoimentos repetindo o padrão -->
+            <figure class="testimonial">
+              <div class="testimonial-image">
+                <img src="imagens/Depoimento/depoimento4.webp" alt="Foto de Luiza R.">
+              </div>
+              <blockquote>
+                “Sério, eu nem sei por onde começar! Cada drink era mais lindo que o outro (e eu juro que experimentei TODOS 😅). A galera do bar era tão gente boa que parecia parte da festa. Já quero repetir, porque a noite foi simplesmente perfeita!”
+              </blockquote>
+              <figcaption>— Luiza R.</figcaption>
+            </figure>
+        </div>
+        <!-- O JavaScript irá popular os depoimentos aqui, em pares. -->
       </div>
 
       <button class="carousel-control next" aria-label="Próximo">›</button>
@@ -493,6 +558,7 @@
           <li><a href="#depoimentos">Depoimentos</a></li>
           <li><a href="#galeria">Galeria</a></li>
           <li><a href="#contato">Contato</a></li>
+          <li><a href="politica-de-privacidade.html">Política de Privacidade</a></li>
         </ul>
       </div>
 
@@ -531,5 +597,35 @@
   </a>
 
   <script src="main.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const sections = document.querySelectorAll('section[id]');
+      const navLinks = document.querySelectorAll('.nav a');
+
+      const onScroll = () => {
+        const scrollPosition = window.scrollY + 150; // Add offset
+
+        sections.forEach(section => {
+          if (scrollPosition >= section.offsetTop && scrollPosition < section.offsetTop + section.offsetHeight) {
+            const currentId = section.getAttribute('id');
+            
+            navLinks.forEach(link => {
+              link.classList.remove('active-link');
+              if (link.getAttribute('href') === `#${currentId}`) {
+                link.classList.add('active-link');
+              }
+            });
+          }
+        });
+      };
+
+      window.addEventListener('scroll', onScroll);
+    });
+  </script>
+  <style>
+    .contact__form-whatsapp {
+      text-align: center;
+    }
+  </style>
 </body>
 </html>

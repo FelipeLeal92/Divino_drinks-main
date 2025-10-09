@@ -123,24 +123,45 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function populateTestimonials(testimonials) {
-        if (!testimonials) return;
+        if (!testimonials || !testimonials.testimonials) return;
         const track = document.getElementById('testimonials-track');
         track.innerHTML = '';
-        if (testimonials.testimonials) {
-            testimonials.testimonials.forEach(t => {
-                const figure = document.createElement('figure');
-                figure.className = 'testimonial';
-                figure.innerHTML = `
+        
+        const testimonialsData = testimonials.testimonials;
+        for (let i = 0; i < testimonialsData.length; i += 2) {
+            const page = document.createElement('div');
+            page.className = 'testimonial-page';
+
+            const testimonial1_data = testimonialsData[i];
+            const figure1 = document.createElement('figure');
+            figure1.className = 'testimonial';
+            figure1.innerHTML = `
+                <div class="testimonial-image">
+                    <img src="${testimonial1_data.image}" alt="Foto de ${testimonial1_data.author}">
+                </div>
+                <blockquote>
+                    <p>“${testimonial1_data.quote}”</p>
+                </blockquote>
+                <figcaption>— ${testimonial1_data.author}</figcaption>
+            `;
+            page.appendChild(figure1);
+
+            if (i + 1 < testimonialsData.length) {
+                const testimonial2_data = testimonialsData[i+1];
+                const figure2 = document.createElement('figure');
+                figure2.className = 'testimonial';
+                figure2.innerHTML = `
                     <div class="testimonial-image">
-                        <img src="${t.image}" alt="Foto de ${t.author}">
+                        <img src="${testimonial2_data.image}" alt="Foto de ${testimonial2_data.author}">
                     </div>
                     <blockquote>
-                        <p>“${t.quote}”</p>
+                        <p>“${testimonial2_data.quote}”</p>
                     </blockquote>
-                    <figcaption>— ${t.author}</figcaption>
+                    <figcaption>— ${testimonial2_data.author}</figcaption>
                 `;
-                track.appendChild(figure);
-            });
+                page.appendChild(figure2);
+            }
+            track.appendChild(page);
         }
     }
 
@@ -244,9 +265,10 @@ document.addEventListener('DOMContentLoaded', () => {
       const next = document.querySelector('.carousel .next');
       if (!track) return;
       let index = 0;
-      const slides = Array.from(track.children);
 
       function update(direction){
+        const slides = Array.from(track.children);
+        if (slides.length === 0) return;
         index = (index + direction + slides.length) % slides.length;
         track.scrollTo({ left: slides[index].offsetLeft, behavior: 'smooth' });
       }

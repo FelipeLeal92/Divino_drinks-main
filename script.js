@@ -22,9 +22,10 @@ if (toggle) {
   const next = document.querySelector('.carousel .next');
   if (!track) return;
   let index = 0;
-  const slides = Array.from(track.children);
 
   function update(direction){
+    const slides = Array.from(track.children);
+    if (slides.length === 0) return;
     index = (index + direction + slides.length) % slides.length;
     track.scrollTo({ left: slides[index].offsetLeft, behavior: 'smooth' });
   }
