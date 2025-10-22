@@ -127,42 +127,20 @@ document.addEventListener('DOMContentLoaded', () => {
         const track = document.getElementById('testimonials-track');
         track.innerHTML = '';
         
-        const testimonialsData = testimonials.testimonials;
-        for (let i = 0; i < testimonialsData.length; i += 2) {
-            const page = document.createElement('div');
-            page.className = 'testimonial-page';
-
-            const testimonial1_data = testimonialsData[i];
-            const figure1 = document.createElement('figure');
-            figure1.className = 'testimonial';
-            figure1.innerHTML = `
+        testimonials.testimonials.forEach(testimonial_data => {
+            const figure = document.createElement('figure');
+            figure.className = 'testimonial';
+            figure.innerHTML = `
                 <div class="testimonial-image">
-                    <img src="${testimonial1_data.image}" alt="Foto de ${testimonial1_data.author}">
+                    <img src="${testimonial_data.image}" alt="Foto de ${testimonial_data.author}">
                 </div>
                 <blockquote>
-                    <p>“${testimonial1_data.quote}”</p>
+                    <p>"${testimonial_data.quote}"</p>
                 </blockquote>
-                <figcaption>— ${testimonial1_data.author}</figcaption>
+                <figcaption>— ${testimonial_data.author}</figcaption>
             `;
-            page.appendChild(figure1);
-
-            if (i + 1 < testimonialsData.length) {
-                const testimonial2_data = testimonialsData[i+1];
-                const figure2 = document.createElement('figure');
-                figure2.className = 'testimonial';
-                figure2.innerHTML = `
-                    <div class="testimonial-image">
-                        <img src="${testimonial2_data.image}" alt="Foto de ${testimonial2_data.author}">
-                    </div>
-                    <blockquote>
-                        <p>“${testimonial2_data.quote}”</p>
-                    </blockquote>
-                    <figcaption>— ${testimonial2_data.author}</figcaption>
-                `;
-                page.appendChild(figure2);
-            }
-            track.appendChild(page);
-        }
+            track.appendChild(figure);
+        });
     }
 
     function populateGallery(gallery) {
@@ -247,14 +225,24 @@ document.addEventListener('DOMContentLoaded', () => {
     // Menu mobile
     const toggle = document.querySelector('.menu-toggle');
     const nav = document.querySelector('.nav');
-    if (toggle) {
+    if (toggle && nav) {
       toggle.addEventListener('click', () => {
-        const open = nav.classList.toggle('open');
-        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+        nav.classList.toggle('open');
+        toggle.classList.toggle('open');
+        const isOpen = nav.classList.contains('open');
+        toggle.setAttribute('aria-expanded', isOpen);
+        // Prevent body scrolling when menu is open
+        document.body.style.overflow = isOpen ? 'hidden' : '';
       });
-      // Fechar ao clicar em link
+
+      // Close menu when a link is clicked
       nav.addEventListener('click', (e) => {
-        if (e.target.tagName === 'A') nav.classList.remove('open');
+        if (e.target.tagName === 'A') {
+          nav.classList.remove('open');
+          toggle.classList.remove('open');
+          toggle.setAttribute('aria-expanded', 'false');
+          document.body.style.overflow = '';
+        }
       });
     }
 
