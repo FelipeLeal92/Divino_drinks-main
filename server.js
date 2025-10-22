@@ -264,9 +264,20 @@ server.on('error', (error) => {
     if (error.syscall !== 'listen') {
         throw error;
     }
-    // Trata erros específicos de 'listen'
-    if (error.code === 'EADDRINUSE') {
-        console.error(`Erro: A porta ${PORT} já está em uso. Verifique se outro servidor não está rodando.`);
-        process.exit(1);
+
+    const bind = typeof PORT === 'string' ? 'Pipe ' + PORT : 'Port ' + PORT;
+
+    // Trata erros específicos de 'listen' com mensagens mais amigáveis
+    switch (error.code) {
+        case 'EACCES':
+            console.error(`${bind} requer privilégios elevados.`);
+            process.exit(1);
+            break;
+        case 'EADDRINUSE':
+            console.error(`${bind} já está em uso. Verifique se outro servidor não está rodando.`);
+            process.exit(1);
+            break;
+        default:
+            throw error;
     }
 });
