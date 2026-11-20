@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="Divino Drinks: serviço de alta coquetelaria para casamentos, formaturas, aniversários e inaugurações. Bar de excelência para eventos inesquecíveis." />
   <meta name="keywords" content="coquetelaria, bar para eventos, bartenders, casamentos, formaturas, aniversários, inaugurações, coquetéis, drinks" />
-  
+
   <!-- Open Graph / Social -->
   <meta property="og:title" content="Divino Drinks — Alta coquetelaria para eventos exclusivos" />
   <meta property="og:description" content="Bar de excelência para quem valoriza o verdadeiro sabor da EXCELÊNCIA." />
@@ -22,10 +22,9 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
-  <link rel="stylesheet" href="./styles.css" />
+  <link rel="stylesheet" href="/fonts/fontawesome.css" />
+  <link rel="stylesheet" href="/css/styles.css" />
+  <link rel="stylesheet" href="/css/editorial.css" />
 
   <!-- JSON-LD -->
   <script type="application/ld+json">
@@ -49,96 +48,26 @@
   }
   </script>
 
-  <!-- Estilos -->
-  <style>
-    .hero-socials {
-      display: flex;
-      justify-content: center;
-      gap: 1.25rem;
-      margin-top: 1.5rem;
-    }
-    .hero-socials a {
-      color: #ffffff;
-      font-size: 1.5rem;
-      transition: color 0.3s ease, transform 0.3s ease;
-    }
-    .hero-socials a:hover,
-    .hero-socials a:focus {
-      color: #D4AF37;
-      transform: scale(1.1);
-    }
-    .footer-socials {
-      display: flex;
-      gap: 1rem;
-      margin-top: 1rem;
-    }
-    .footer-socials a {
-      color: #ffffff;
-      font-size: 1.5rem;
-      transition: color 0.3s ease;
-    }
-    .footer-socials a:hover {
-      color: #D4AF37;
-    }
-    @keyframes fadeInUp {
-      from {
-        opacity: 0;
-        transform: translateY(20px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-    #hero-title, #hero-subtitle {
-      opacity: 0;
-      animation: fadeInUp 0.8s ease-out forwards;
-    }
-    #hero-subtitle {
-      animation-delay: 0.2s;
-    }
-    @media (max-width: 768px) {
-      .hero-socials {
-        justify-content: center;
-      }
-    }
-    .nav a.active-link {
-      position: relative;
-      color: #D4AF37; /* Golden color */
-    }
+  </head>
 
-    .nav a.active-link::after {
-      content: '';
-      position: absolute;
-      bottom: -5px;
-      left: 0;
-      width: 100%;
-      height: 2px;
-      background-color: #D4AF37; /* Golden color */
-    }
-
-
-  </style>
-</head>
-
-<body>
+<body class="site-page">
   <!-- Header -->
   <header class="header" id="topo" aria-label="Cabeçalho">
     <div class="container header-inner">
-      <a href="#" class="logo">
+      <a href="#topo" class="logo" aria-label="Divino Drinks — voltar ao início">
         <img src="imagens/Logo/logo5.png" alt="Logo Divino Drinks">
       </a>
 
-      <button class="menu-toggle" aria-label="Abrir menu" aria-expanded="false">
+      <button class="menu-toggle" aria-label="Abrir menu" aria-expanded="false" aria-controls="site-navigation">
         <span class="menu-bar"></span><span class="menu-bar"></span><span class="menu-bar"></span>
       </button>
 
-      <nav class="nav" aria-label="Menu principal">
+      <nav class="nav" id="site-navigation" aria-label="Menu principal">
         <ul>
-          <li><a href="#quem-somos">A Divino</a></li>
+          <li><a href="#galeria">Portfólio</a></li>
           <li><a href="#homes">Serviços</a></li>
+          <li><a href="#quem-somos">A Divino</a></li>
           <li><a href="#depoimentos">Depoimentos</a></li>
-          <li><a href="#galeria">Galeria</a></li>
           <li><a href="#contato">Contato</a></li>
         </ul>
       </nav>
@@ -156,7 +85,7 @@
       <p id="hero-subtitle">Somos especialistas em criar EXPERIENCIAS EXCLUSIVAS de Alta Coquetelaria, voltadas para quem valoriza o verdadeiro sabor da EXCELÊNCIA.</p>
       <div class="hero-ctas">
         <a href="#contato" class="btn btn-primary">Solicitar orçamento</a>
-        <a href="#homes" class="btn btn-outline">Conheça nossos serviços</a>
+        <a href="#galeria" class="btn btn-outline">Explore nosso portfólio</a>
       </div>
       <ul class="hero-badges" id="hero-badges">
         <li>
@@ -190,19 +119,103 @@
   </div>
 </section>
 
+<section class="section gallery" id="galeria" aria-label="Galeria de imagens">
+  <div class="container">
+    <div class="section-header">
+      <h2>Coquetelaria em cena</h2>
+      <p>Drinks, detalhes e pessoas. Abra um álbum para conhecer nosso trabalho.</p>
+    </div>
+
+    <div class="gallery-grid" id="gallery-grid">
+      <!-- Álbum 1 -->
+      <a href="#" class="gallery-item" data-album="1">
+        <div class="gallery-title">Drinks</div>
+        <img src="imagens/thumb/thumb_drink3.webp" alt="Drinks">
+      </a>
+
+      <!-- Álbum 2 -->
+      <a href="#" class="gallery-item" data-album="2">
+        <div class="gallery-title">A Divino</div>
+        <img src="imagens/thumb/thumb_placa.webp" alt="Drinks Autorais">
+      </a>
+
+      <!-- Álbum 3 -->
+      <a href="#" class="gallery-item" data-album="3">
+        <div class="gallery-title">Eventos e Convidados</div>
+        <img src="imagens/thumb/thumb_cliente_sorridente1.webp" alt="Eventos Especiais">
+      </a>
+    </div>
+  </div>
+
+  <!-- Lightbox -->
+  <div class="lightbox" aria-hidden="true" role="dialog" aria-modal="true" aria-label="Visualização de imagens">
+    <button class="lightbox-close" aria-label="Fechar">×</button>
+    <button class="lightbox-prev" aria-label="Anterior">‹</button>
+    <img class="lightbox-image" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1' height='1'%3E%3C/svg%3E" alt="">
+    <button class="lightbox-next" aria-label="Próxima">›</button>
+  </div>
+</section>
+
+<section class="section services" id="homes" aria-label="Serviços">
+    <div class="container">
+      <div class="section-header">
+        <h2>Uma experiência para cada celebração</h2>
+        <p>Conheça os serviços e escolha o que combina com o seu evento.</p>
+      </div>
+      <div class="cards" id="services-cards">
+        <article class="card">
+          <div class="card-image">
+            <img src="imagens/coquetelaria_luxo.webp" alt="coqueteleiros preparando drinks sofisticados" loading="lazy" decoding="async" />
+          </div>
+          <h3>COQUETELARIA DE LUXO</h3>
+          <p>Nossa Alta Coquetelaria apresenta uma seleção impecável de drinks exclusivos, combinando sabor, criatividade e uma apresentação que impressiona a todos.</p>
+          <p><strong>Utilizamos peças de alto padrão, garantindo que a experiência visual seja tão marcante quanto o sabor de cada drink.</strong></p>
+          </article>
+
+        <article class="card">
+          <div class="card-image">
+            <img src="imagens/openbar.webp" alt="coqueteleiros preparando drinks sofisticados" loading="lazy" decoding="async" />
+          </div>
+          <h3>OPEN BAR INFINITO</h3>
+          <p>Nosso open bar é Infinito, sem pausas, sem surpresas e sem faltar bebida no meio da festa. O clima continua animado do primeiro ao último brinde.</p>
+          <P><strong>Nossa missão é proporcionar uma experiência completa, unindo sabor, diversão e tranquilidade. Você brinda, a gente cuida do resto.</strong></p>
+        </article>
+
+        <article class="card">
+          <div class="card-image">
+            <img src="imagens/welcome_drink.webp" alt="coqueteleiros preparando drinks sofisticados" loading="lazy" decoding="async" />
+          </div>
+          <h3>WELCOME DRINK</h3>
+          <p>Um coquetel de boas-vindas, servido com elegância para recepcionar seus convidados tanto na cerimônia quanto no início da festa, marcando o começo das celebrações com charme e sabor.</p>
+          <P><strong>Receba seus convidados com sofisticação desde o primeiro gole — drinks refrescantes e espumantes servidos com charme e excelência.</strong></P>
+        </article>
+
+        <article class="card">
+          <div class="card-image">
+            <img src="imagens/Degustacao.webp" alt="coqueteleiros preparando drinks sofisticados" loading="lazy" decoding="async" />
+          </div>
+          <h3>DEGUSTAÇÃO</h3>
+          <p>Oferecemos um menu exclusivo e totalmente personalizado, com drinks autorais criados sob medida para cada cliente e ocasião. Cada receita é pensada com carinho para harmonizar com o estilo da festa e refletir as preferências de quem celebra.</p>
+          <P><strong>É o momento ideal para conhecer nossa qualidade, conversar sobre preferências e garantir que tudo esteja no ponto certo para o grande dia</strong></P>
+        </article>
+      </div>
+      <div class="section-action"><a href="#contato" class="btn btn-primary">Planejar meu evento</a></div>
+    </div>
+  </section>
+
   <!-- Quem somos -->
   <section class="section about" id="quem-somos" aria-label="Quem somos">
     <div class="container">
       <div class="section-header">
         <h2>A Divino</h2>
-        <p id="about-description">
-          Somos uma equipe de mixologistas que transforma eventos em <strong>experiências sensoriais</strong>. Apaixonados por 
+        <div id="about-description"><p>
+          Somos uma equipe de mixologistas que transforma eventos em <strong>experiências sensoriais</strong>. Apaixonados por
           <strong>eternizar momentos</strong> através dos nossos <strong>drinks</strong>, utilizamos uma carta que combina drinks autorais e clássicos, com ingredientes selecionados e atendimento exclusivo.
         </p>
 
         <p>
           Com um <strong>histórico de sucesso</strong> em eventos de diversos segmentos, somos reconhecidos como <strong>referência em excelência</strong> no serviço de bar. Entendemos que <strong>cada evento é único</strong>, por isso contamos com uma equipe de profissionais altamente qualificados para garantir um atendimento impecável e manter nosso elevado padrão de qualidade.
-        </p>
+        </p></div>
 
       </div>
       <div class="about-grid" id="about-cards">
@@ -219,7 +232,7 @@
           <p>Nosso maior diferencial está nas pessoas. A equipe da Divino Drinks é formada por profissionais preparados para entregar muito mais do que drinks impecáveis: oferecemos uma experiência de atendimento que valoriza cada detalhe.</p>
         </div>
       </div>
-   
+
       <div class="hero-ctas">
         <a href="#contato" class="btn btn-primary">Solicitar orçamento</a>
       </div>
@@ -228,63 +241,8 @@
   </section>
 
   <!-- Serviços -->
-  <section class="section services" id="homes" aria-label="Serviços">
-    <div class="container">
-      <div class="section-header">
-        <h2>Serviços</h2>
-      </div>
-      <div class="cards" id="services-cards">
-        <article class="card">
-          <div class="card-image">
-            <img src="imagens/coquetelaria_luxo.webp" alt="coqueteleiros preparando drinks sofisticados" loading="lazy" decoding="async" />
-          </div>
-          <h3>COQUETELARIA DE LUXO</h3>
-          <p>Nossa Alta Coquetelaria apresenta uma seleção impecável de drinks exclusivos, combinando sabor, criatividade e uma apresentação que impressiona a todos.</p>
-          <p><strong>Utilizamos peças de alto padrão, garantindo que a experiência visual seja tão marcante quanto o sabor de cada drink.</strong></p>
-          <div class="hero-ctas">
-            <a href="#contato" class="btn btn-primary">Solicitar orçamento</a>
-          </div>
-        </article>
 
-        <article class="card">
-          <div class="card-image">
-            <img src="imagens/openbar.webp" alt="coqueteleiros preparando drinks sofisticados" loading="lazy" decoding="async" />
-          </div>
-          <h3>OPEN BAR INFINITO</h3>
-          <p>Nosso open bar é Infinito, sem pausas, sem surpresas e sem faltar bebida no meio da festa. O clima continua animado do primeiro ao último brinde.</p>
-          <P><strong>Nossa missão é proporcionar uma experiência completa, unindo sabor, diversão e tranquilidade. Você brinda, a gente cuida do resto.</strong></p>
-          <div class="hero-ctas">
-            <a href="#contato" class="btn btn-primary">Solicitar orçamento</a>
-          </div>
-        </article>
-
-        <article class="card">
-          <div class="card-image">
-            <img src="imagens/welcome_drink.webp" alt="coqueteleiros preparando drinks sofisticados" loading="lazy" decoding="async" />
-          </div>
-          <h3>WELCOME DRINK</h3>
-          <p>Um coquetel de boas-vindas, servido com elegância para recepcionar seus convidados tanto na cerimônia quanto no início da festa, marcando o começo das celebrações com charme e sabor.</p>
-          <P><strong>Receba seus convidados com sofisticação desde o primeiro gole — drinks refrescantes e espumantes servidos com charme e excelência.</strong></P>
-          <div class="hero-ctas">
-            <a href="#contato" class="btn btn-primary">Solicitar orçamento</a>   
-          </div>       
-        </article>
-
-        <article class="card">
-          <div class="card-image">
-            <img src="imagens/Degustacao.webp" alt="coqueteleiros preparando drinks sofisticados" loading="lazy" decoding="async" />
-          </div>
-          <h3>DEGUSTAÇÃO</h3>
-          <p>Oferecemos um menu exclusivo e totalmente personalizado, com drinks autorais criados sob medida para cada cliente e ocasião. Cada receita é pensada com carinho para harmonizar com o estilo da festa e refletir as preferências de quem celebra.</p>
-          <P><strong>É o momento ideal para conhecer nossa qualidade, conversar sobre preferências e garantir que tudo esteja no ponto certo para o grande dia</strong></P>
-          <div class="hero-ctas">
-            <a href="#contato" class="btn btn-primary">Solicitar orçamento</a>
-          </div>
-        </article>
-      </div>
-    </div>
-  </section>
-<!---   Diferenciais 
+<!---   Diferenciais
   <section class="section features" id="diferenciais" aria-label="Diferenciais">
     <div class="container">
       <div class="section-header">
@@ -326,8 +284,7 @@
       <button class="carousel-control prev" aria-label="Anterior">‹</button>
 
       <div class="carousel-track" id="testimonials-track">
-        <div class="testimonial-page">
-            <figure class="testimonial">
+<figure class="testimonial">
               <div class="testimonial-image">
                 <img src="imagens/Depoimento/depoimento1.webp" alt="Foto de Marina e Lucas">
               </div>
@@ -346,10 +303,7 @@
               </blockquote>
               <figcaption>— Marcelo M.</figcaption>
             </figure>
-        </div>
-
-        <div class="testimonial-page">
-            <figure class="testimonial">
+<figure class="testimonial">
               <div class="testimonial-image">
                 <img src="imagens/Depoimento/depoimento3.webp" alt="Foto de Gabriela M.">
               </div>
@@ -368,81 +322,42 @@
               </blockquote>
               <figcaption>— Luiza R.</figcaption>
             </figure>
-        </div>
-        <!-- O JavaScript irá popular os depoimentos aqui, em pares. -->
+<!-- O JavaScript irá popular os depoimentos aqui, em pares. -->
       </div>
 
       <button class="carousel-control next" aria-label="Próximo">›</button>
     </div>
     <div class="hero-ctas">
       <a href="#contato" class="btn btn-primary">Solicitar orçamento</a>
-    </div>    
+    </div>
   </div>
 </section>
 
 
 <!-- Galeria -->
-<section class="section gallery" id="galeria" aria-label="Galeria de imagens">
-  <div class="container">
-    <div class="section-header">
-      <h2>Galeria</h2>
-    </div>
 
-    <div class="gallery-grid" id="gallery-grid">
-      <!-- Álbum 1 -->
-      <a href="#" class="gallery-item" data-album="1">
-        <div class="gallery-title">Drinks</div>
-        <img src="imagens/thumb/thumb_drink3.webp" alt="Drinks">
-      </a>
-
-      <!-- Álbum 2 -->
-      <a href="#" class="gallery-item" data-album="2">
-        <div class="gallery-title">A Divino</div>
-        <img src="imagens/thumb/thumb_placa.webp" alt="Drinks Autorais">
-      </a>
-
-      <!-- Álbum 3 -->
-      <a href="#" class="gallery-item" data-album="3">
-        <div class="gallery-title">Eventos e Convidados</div>
-        <img src="imagens/thumb/thumb_cliente_sorridente1.webp" alt="Eventos Especiais">
-      </a>
-    </div>
-      <div class="features-cta">
-        <h2>Quer um bar inesquecível no seu evento?</h2>
-        <p>Conte-nos sobre a sua celebração e enviaremos um orçamento sob medida.</p>
-        <a href="#contato" class="btn btn-primary">Solicitar orçamento</a>
-    </div>
-  </div>
-
-  <!-- Lightbox -->
-  <div class="lightbox" role="dialog" aria-modal="true" aria-label="Visualização de imagens">
-    <button class="lightbox-close" aria-label="Fechar">×</button>
-    <button class="lightbox-prev" aria-label="Anterior">‹</button>
-    <img class="lightbox-image" alt="">
-    <button class="lightbox-next" aria-label="Próxima">›</button>
-  </div>
-</section>
 
   <!-- Formulário de captura -->
   <section class="section contact" id="contato" aria-label="Formulário de contato">
     <div class="container">
       <div class="section-header">
-        <h2>Solicite seu orçamento</h2>
+        <h2>Vamos planejar seu evento?</h2>
+        <p>Conte o que você já sabe sobre a celebração. Se a data ou a quantidade de convidados ainda estiverem em aberto, tudo bem.</p>
       </div>
 
-      <form id="lead-form" class="form" novalidate>
+      <form id="lead-form" class="form">
         <div class="form-grid">
           <div class="form-field">
             <label for="nome">Nome</label>
-            <input id="nome" name="nome" type="text" placeholder="Seu nome completo" required />
+            <input id="nome" name="nome" type="text" autocomplete="name" maxlength="100" placeholder="Seu nome completo" required />
           </div>
           <div class="form-field">
             <label for="email">E-mail</label>
-            <input id="email" name="email" type="email" placeholder="seu@email.com" required />
+            <input id="email" name="email" type="email" autocomplete="email" placeholder="seu@email.com" required />
           </div>
           <div class="form-field">
             <label for="telefone">Telefone</label>
-            <input id="telefone" name="telefone" type="tel" placeholder="(00) 00000-0000" required />
+            <input id="telefone" name="telefone" type="tel" autocomplete="tel-national" inputmode="tel" placeholder="(00) 00000-0000" required />
           </div>
           <div class="form-field">
             <label for="tipoEvento">Tipo de evento</label>
@@ -459,26 +374,28 @@
           <div class="form-field">
             <label for="dataEvento">Data do evento</label>
             <input id="dataEvento" name="dataEvento" type="date" required />
+            <label class="planning-option"><input id="data-indefinida" type="checkbox" aria-label="Ainda não defini a data"> Ainda não defini</label>
           </div>
           <div class="form-field">
-            <label for="convidados">Quantidade de convidados</label>
-            <input id="convidados" name="convidados" type="number" min="1" placeholder="Ex: 150" required />
+            <label for="convidados">Convidados</label>
+            <input id="convidados" name="convidados" type="number" min="1" max="2000" placeholder="Ex: 150" required />
+            <label class="planning-option"><input id="convidados-indefinidos" type="checkbox" aria-label="Ainda não defini a quantidade de convidados"> Ainda não defini</label>
           </div>
           <div class="form-field form-field-full">
             <label for="mensagem">Mensagem</label>
-            <textarea id="mensagem" name="mensagem" rows="5" placeholder="Conte-nos sobre o estilo do evento, local, duração etc."></textarea>
+            <textarea id="mensagem" name="mensagem" rows="2" maxlength="2000" placeholder="Detalhes que você gostaria de compartilhar (opcional)"></textarea>
           </div>
         </div>
 
         <div class="form-actions">
-          <button type="submit" class="btn btn-primary">Enviar</button>          
+          <button type="submit" class="btn btn-primary">Solicitar orçamento</button>
         </div>
         <div class="contact__form-whatsapp">
           <p><span>Ou fale conosco diretamente no</span></p>
-          <a href="WHATSAPP_PLACEHOLDER" 
-            class="contact__whatsapp-link" 
-            id="whatsapp-link" 
-            target="_blank" 
+          <a href="WHATSAPP_PLACEHOLDER"
+            class="contact__whatsapp-link"
+            id="whatsapp-link"
+            target="_blank"
             rel="noopener noreferrer">
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 32 32" fill="none">
               <path fill="#25d366" d="M16 .396C7.167.396.04 7.523.04 16.357c0 2.873.752 5.682 2.176 8.145L.041 31.604l7.305-2.143c2.372 1.294 5.046 1.977 7.77 1.975h.006c8.833 0 15.96-7.127 15.96-15.962 0-4.27-1.662-8.281-4.68-11.3C24.281 2.059 20.27.396 16 .396z"/>
@@ -497,9 +414,9 @@
   <footer class="footer" aria-label="Rodapé">
     <div class="container footer-inner">
       <div class="footer-col">
-        <div class="logo logo-footer">
+        <a href="#topo" class="logo logo-footer" aria-label="Divino Drinks — voltar ao início">
           <img src="imagens/Logo/logo_footer.png" alt="Divino Drinks Logo" />
-        </div>
+        </a>
         <p id="footer-description">Alta coquetelaria para eventos exclusivos no Brasil.</p>
       </div>
 
@@ -517,7 +434,7 @@
       <div class="footer-col">
         <h4>Contato</h4>
         <ul class="footer-links" id="footer-links">
-          <li><a href="mailto:contato@seudominio.com">divinodrinksba@gmail.com</a></li>
+          <li><a href="mailto:divinodrinksba@gmail.com">divinodrinksba@gmail.com</a></li>
           <li><a href="tel:+5571987933490">+55 (71) 98793-3490</a></li>
           <li>Salvador, BA</li>
         </ul>
@@ -531,13 +448,13 @@
         </div>
       </div>
     </div>
-    
+
     <div class="container footer-bottom">
       <small>© <span id="year"></span> Divino Drinks. Todos os direitos reservados.</small>
-      <small class="credit">Criado por <a href="www.lealverse.com.br" target="_blank" rel="nofollow">LealVerse</a></small>
+      <small class="credit">Criado por <a href="https://www.lealverse.com.br" target="_blank" rel="nofollow">LealVerse</a></small>
     </div>
   </footer>
-  
+
     <!-- WhatsApp Button -->
   <a href="WHATSAPP_PLACEHOLDER" class="whatsapp-button" id="whatsapp-button" target="_blank" rel="noopener noreferrer">
     <i class="fab fa-whatsapp"></i>
@@ -548,36 +465,7 @@
       <i class="fas fa-arrow-up"></i>
   </a>
 
-  <script src="main.js"></script>
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      const sections = document.querySelectorAll('section[id]');
-      const navLinks = document.querySelectorAll('.nav a');
-
-      const onScroll = () => {
-        const scrollPosition = window.scrollY + 150; // Add offset
-
-        sections.forEach(section => {
-          if (scrollPosition >= section.offsetTop && scrollPosition < section.offsetTop + section.offsetHeight) {
-            const currentId = section.getAttribute('id');
-            
-            navLinks.forEach(link => {
-              link.classList.remove('active-link');
-              if (link.getAttribute('href') === `#${currentId}`) {
-                link.classList.add('active-link');
-              }
-            });
-          }
-        });
-      };
-
-      window.addEventListener('scroll', onScroll);
-    });
-  </script>
-  <style>
-    .contact__form-whatsapp {
-      text-align: center;
-    }
-  </style>
+  <script src="/js/content-utils.js"></script>
+  <script src="/js/main.js"></script>
 </body>
 </html>

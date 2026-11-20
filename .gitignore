@@ -109,6 +109,11 @@ data.sqlite-journal
 uploads/
 backups/
 temp/
+db.json
+data/db.json
+data/local/
+test-results/
+cookies.txt
 
 # Arquivos de sistema
 .DS_Store

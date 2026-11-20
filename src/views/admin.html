@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Painel — Divino Drinks</title>
+  <link rel="icon" href="/imagens/favicon.ico">
+  <link rel="stylesheet" href="/css/admin.css">
+</head>
+<body class="admin-page">
+  <a class="skip-link" href="#workspace">Ir para a edição</a>
+  <div class="admin-shell">
+    <aside class="sidebar" aria-label="Menu administrativo">
+      <a class="brand" href="/" target="_blank" rel="noopener"><img src="/imagens/Logo/logo_footer.png" alt="Divino Drinks — abrir site"></a>
+      <p class="nav-label">Conteúdo do site</p>
+      <nav class="section-nav" aria-label="Seções do conteúdo">
+        <button type="button" data-section="hero" aria-current="page">Página inicial</button>
+        <button type="button" data-section="about">Quem somos</button>
+        <button type="button" data-section="services">Serviços</button>
+        <button type="button" data-section="testimonials">Depoimentos</button>
+        <button type="button" data-section="gallery">Galeria</button>
+        <button type="button" data-section="footer">Contato e rodapé</button>
+      </nav>
+      <div class="sidebar-footer">
+        <a href="/" target="_blank" rel="noopener">Ver site <span aria-hidden="true">↗</span></a>
+        <a href="/logout">Sair da conta</a>
+      </div>
+    </aside>
+    <main id="workspace" class="workspace" tabindex="-1">
+      <header class="workspace-header">
+        <div><h1 id="section-title">Página inicial</h1><p id="section-description">Edite a apresentação da Divino Drinks.</p></div>
+        <div class="header-links"><a class="site-link" href="/" target="_blank" rel="noopener">Ver site</a><a class="mobile-account" href="/logout">Sair da conta</a></div>
+      </header>
+      <div class="mobile-section-picker">
+        <label for="section-picker">Seção do site</label>
+        <select id="section-picker"><option value="hero">Página inicial</option><option value="about">Quem somos</option><option value="services">Serviços</option><option value="testimonials">Depoimentos</option><option value="gallery">Galeria</option><option value="footer">Contato e rodapé</option></select>
+      </div>
+      <div id="feedback" class="feedback" role="alert" hidden></div>
+      <div id="loading" class="loading" role="status">Carregando seu conteúdo…</div>
+      <button id="retry-load" class="button secondary" type="button" hidden>Tentar novamente</button>
+      <div id="editing-layout" class="editing-layout" hidden>
+        <div class="editor-column">
+          <form id="editor-form" novalidate>
+            <section id="panel-hero" class="editor-panel" data-panel="hero" aria-label="Editar página inicial"><div id="editor-hero"></div></section>
+            <section id="panel-about" class="editor-panel" data-panel="about" aria-label="Editar quem somos" hidden><div id="editor-about"></div></section>
+            <section id="panel-services" class="editor-panel" data-panel="services" aria-label="Editar serviços" hidden><div id="editor-services"></div></section>
+            <section id="panel-testimonials" class="editor-panel" data-panel="testimonials" aria-label="Editar depoimentos" hidden><div id="editor-testimonials"></div></section>
+            <section id="panel-gallery" class="editor-panel" data-panel="gallery" aria-label="Editar galeria" hidden><div id="editor-gallery"></div></section>
+            <section id="panel-footer" class="editor-panel" data-panel="footer" aria-label="Editar contato e rodapé" hidden><div id="editor-footer"></div></section>
+          </form>
+          <p class="save-explanation">Salvar atualiza esta seção no site imediatamente.</p>
+          <button id="toggle-preview" type="button" class="button secondary preview-toggle" aria-expanded="false" aria-controls="preview-pane">Mostrar prévia</button>
+        </div>
+        <aside id="preview-pane" class="preview-pane" aria-labelledby="preview-heading">
+          <div class="preview-heading"><h2 id="preview-heading">Prévia da seção</h2><span>Durante a edição</span></div>
+          <div id="section-preview" class="section-preview"></div>
+          <p class="preview-note">Confira textos e fotos. A disposição final acompanha o layout do site.</p>
+        </aside>
+      </div>
+      <footer class="save-bar">
+        <div><p id="save-status" role="status" aria-live="polite">Carregando…</p><span id="pending-count"></span></div>
+        <div class="save-actions"><button id="discard-current" type="button" class="button quiet" disabled>Descartar</button><button id="save-current" type="submit" form="editor-form" class="button primary" disabled>Salvar alterações</button></div>
+      </footer>
+    </main>
+  </div>
+  <div id="undo-message" class="undo-message" role="status" hidden><span id="undo-text"></span><button id="undo-remove" type="button" class="button secondary">Desfazer</button></div>
+  <dialog id="discard-dialog" aria-labelledby="discard-heading"><h2 id="discard-heading">Descartar alterações desta seção?</h2><p>O conteúdo salvo no site será mantido. As outras seções em edição não serão afetadas.</p><div class="dialog-actions"><button id="cancel-discard" class="button secondary" type="button">Continuar editando</button><button id="confirm-discard" class="button danger" type="button">Descartar alterações</button></div></dialog>
+  <script src="/js/content-utils.js" defer></script>
+  <script src="/js/admin.js" defer></script>
+</body>
+</html>

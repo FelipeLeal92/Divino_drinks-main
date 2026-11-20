@@ -1,3 +1,4 @@
 {
-  "ignore": ["public/*", "db.json"]
+  "watch": ["server.js", "src"],
+  "ignore": ["src/views/*", "data/*", "public/*", "backups/*", "test-results/*"]
 }

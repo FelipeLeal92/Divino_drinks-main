@@ -1,0 +1,5029 @@
+{
+  "desktop": {
+    "viewport": 1440,
+    "documentWidth": 1440,
+    "unlabelled": [
+      {
+        "id": "hero-title",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 918,
+        "height": 52,
+        "label": 0
+      },
+      {
+        "id": "hero-subtitle",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 918,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "about-desc",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 918,
+        "height": 97,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Acreditamos que cada cliente é únic",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nossa estrutura foi pensada para of",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nosso maior diferencial está nas pe",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nossa Alta Coquetelaria apresenta u",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nosso open bar é Infinito, sem paus",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Um coquetel de boas-vindas, servido",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Oferecemos um menu exclusivo e tota",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Estão de parabéns! Uns drinks espet",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "O bar foi o ponto alto do casamento",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Desde o primeiro contato, fiquei im",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Sério, eu nem sei por onde começar!",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      }
+    ],
+    "smallInputs": [
+      {
+        "id": "hero-title",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 918,
+        "height": 52,
+        "label": 0
+      },
+      {
+        "id": "hero-subtitle",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 918,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "hero-instagram-url",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 918,
+        "height": 37,
+        "label": 1
+      },
+      {
+        "id": "hero-whatsapp-phone",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 918,
+        "height": 37,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "about-desc",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 918,
+        "height": 97,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Acreditamos que cada cliente é únic",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nossa estrutura foi pensada para of",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nosso maior diferencial está nas pe",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nossa Alta Coquetelaria apresenta u",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nosso open bar é Infinito, sem paus",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Um coquetel de boas-vindas, servido",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Oferecemos um menu exclusivo e tota",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Estão de parabéns! Uns drinks espet",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "O bar foi o ponto alto do casamento",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Desde o primeiro contato, fiquei im",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Sério, eu nem sei por onde começar!",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 886,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "footer-description-input",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 918,
+        "height": 67,
+        "label": 1
+      },
+      {
+        "id": "footer-contact",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 918,
+        "height": 37,
+        "label": 1
+      },
+      {
+        "id": "footer-phone",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 918,
+        "height": 37,
+        "label": 1
+      }
+    ],
+    "buttons": [
+      {
+        "id": "",
+        "text": "Logout",
+        "tag": "A",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 84,
+        "height": 46,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "add-hero-badge",
+        "text": "Adicionar Badge",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 128,
+        "height": 153,
+        "label": 0
+      },
+      {
+        "id": "save-hero",
+        "text": "Salvar Hero",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 100,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Card",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 107,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Card",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 107,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Card",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 107,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "add-about-card",
+        "text": "Adicionar Card",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 118,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-about",
+        "text": "Salvar Quem Somos",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 153,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Serviço",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 122,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Serviço",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 122,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Serviço",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 122,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Serviço",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 122,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "add-service-card",
+        "text": "Adicionar Serviço",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 134,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-services",
+        "text": "Salvar Serviços",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 123,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Depoimento",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 150,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Depoimento",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 150,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Depoimento",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 150,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Depoimento",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 150,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "add-testimonial",
+        "text": "Adicionar Depoimento",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 161,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-testimonials",
+        "text": "Salvar Depoimentos",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 150,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Capa",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 113,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Adicionar Fotos",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 107,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Álbum",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 116,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Capa",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 113,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Adicionar Fotos",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 107,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Álbum",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 116,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Capa",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 113,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Adicionar Fotos",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 107,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Álbum",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 116,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "add-album",
+        "text": "Adicionar Álbum",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 127,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-gallery",
+        "text": "Salvar Galeria",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 114,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-footer",
+        "text": "Salvar Footer",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 110,
+        "height": 35,
+        "label": 0
+      }
+    ],
+    "headingSizes": [
+      {
+        "id": "",
+        "text": "Administração do Site - Divino Drin",
+        "tag": "H1",
+        "font": "Poppins, sans-serif",
+        "size": "32px",
+        "width": 960,
+        "height": 38,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Hero",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 918,
+        "height": 29,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Badges",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 72,
+        "height": 143,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Quem Somos",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 918,
+        "height": 29,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Cards",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 918,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Card",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 886,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Card",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 886,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Card",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 886,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Serviços",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 918,
+        "height": 29,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Cards",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 918,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Serviço",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 886,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Serviço",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 886,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Serviço",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 886,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Serviço",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 886,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Depoimentos",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 918,
+        "height": 29,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Depoimento",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 886,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Depoimento",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 886,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Depoimento",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 886,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Depoimento",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 886,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Galeria",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 918,
+        "height": 29,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Álbum 1",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 886,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Álbum 2",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 886,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Álbum 3",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 886,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Footer",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 918,
+        "height": 29,
+        "label": null
+      }
+    ],
+    "heroBadges": {
+      "display": "flex",
+      "animation": "heroFade",
+      "opacity": "1"
+    },
+    "previews": [
+      {
+        "id": "hero-bg-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 63,
+        "label": null
+      },
+      {
+        "id": "service-0-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      },
+      {
+        "id": "service-1-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      },
+      {
+        "id": "service-2-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 67,
+        "label": null
+      },
+      {
+        "id": "service-3-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      },
+      {
+        "id": "testimonial-0-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 67,
+        "label": null
+      },
+      {
+        "id": "testimonial-1-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 105,
+        "label": null
+      },
+      {
+        "id": "testimonial-2-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 80,
+        "label": null
+      },
+      {
+        "id": "testimonial-3-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 80,
+        "label": null
+      },
+      {
+        "id": "album-0-thumb-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      },
+      {
+        "id": "album-1-thumb-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      },
+      {
+        "id": "album-2-thumb-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      }
+    ],
+    "textLight": "",
+    "dirtyState": [],
+    "controls": 39
+  },
+  "consoleBeforeProbe": [],
+  "preflight": {
+    "changedTitle": true,
+    "scriptExecuted": false
+  },
+  "probeErrors": [
+    "Executing inline script violates the following Content Security Policy directive 'script-src 'self' 'nonce-hfjzlPbL/IYf2rA3zddo+w==' http://gc.kis.v2.scr.kaspersky-labs.com ws://gc.kis.v2.scr.kaspersky-labs.com'. Either the 'unsafe-inline' keyword, a hash ('sha256-VFHo6kGANfy0Q//QNW4t1vriMMoild2DgUlHCml3M+0='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked."
+  ],
+  "unsavedChange": {
+    "restoredAfterReload": false,
+    "dialogs": 0
+  },
+  "mobileSite": {
+    "initial": {
+      "classes": "nav",
+      "visibility": "hidden",
+      "opacity": "0",
+      "expanded": "false",
+      "toggleDisplay": "block",
+      "viewport": 390,
+      "documentWidth": 390
+    },
+    "open": {
+      "classes": "nav open",
+      "visibility": "visible",
+      "opacity": "1",
+      "expanded": "true",
+      "toggleDisplay": "block",
+      "viewport": 390,
+      "documentWidth": 390
+    },
+    "closedAfterLink": {
+      "classes": "nav",
+      "visibility": "hidden",
+      "opacity": "0",
+      "expanded": "false",
+      "toggleDisplay": "block",
+      "viewport": 390,
+      "documentWidth": 390
+    }
+  },
+  "mobileAdmin": {
+    "viewport": 390,
+    "documentWidth": 441,
+    "unlabelled": [
+      {
+        "id": "hero-title",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 52,
+        "label": 0
+      },
+      {
+        "id": "hero-subtitle",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "about-desc",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 97,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Acreditamos que cada cliente é únic",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nossa estrutura foi pensada para of",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nosso maior diferencial está nas pe",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nossa Alta Coquetelaria apresenta u",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nosso open bar é Infinito, sem paus",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Um coquetel de boas-vindas, servido",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Oferecemos um menu exclusivo e tota",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Estão de parabéns! Uns drinks espet",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "O bar foi o ponto alto do casamento",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Desde o primeiro contato, fiquei im",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Sério, eu nem sei por onde começar!",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      }
+    ],
+    "smallInputs": [
+      {
+        "id": "hero-title",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 52,
+        "label": 0
+      },
+      {
+        "id": "hero-subtitle",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "hero-instagram-url",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 37,
+        "label": 1
+      },
+      {
+        "id": "hero-whatsapp-phone",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 37,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "about-desc",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 97,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Acreditamos que cada cliente é únic",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nossa estrutura foi pensada para of",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nosso maior diferencial está nas pe",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nossa Alta Coquetelaria apresenta u",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nosso open bar é Infinito, sem paus",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Um coquetel de boas-vindas, servido",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Oferecemos um menu exclusivo e tota",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Estão de parabéns! Uns drinks espet",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "O bar foi o ponto alto do casamento",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Desde o primeiro contato, fiquei im",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Sério, eu nem sei por onde começar!",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "footer-description-input",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 67,
+        "label": 1
+      },
+      {
+        "id": "footer-contact",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 37,
+        "label": 1
+      },
+      {
+        "id": "footer-phone",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 37,
+        "label": 1
+      }
+    ],
+    "buttons": [
+      {
+        "id": "",
+        "text": "Logout",
+        "tag": "A",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 84,
+        "height": 46,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "add-hero-badge",
+        "text": "Adicionar Badge",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 128,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-hero",
+        "text": "Salvar Hero",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 100,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Card",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 107,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Card",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 107,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Card",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 107,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "add-about-card",
+        "text": "Adicionar Card",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 118,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-about",
+        "text": "Salvar Quem Somos",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 153,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Serviço",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 122,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Serviço",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 122,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Serviço",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 122,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Serviço",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 122,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "add-service-card",
+        "text": "Adicionar Serviço",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 134,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-services",
+        "text": "Salvar Serviços",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 123,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Depoimento",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 150,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Depoimento",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 150,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Depoimento",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 150,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Depoimento",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 150,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "add-testimonial",
+        "text": "Adicionar Depoimento",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 161,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-testimonials",
+        "text": "Salvar Depoimentos",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 150,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Capa",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 113,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Adicionar Fotos",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 107,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Álbum",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 116,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Capa",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 113,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Adicionar Fotos",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 107,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Álbum",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 116,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Capa",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 113,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Adicionar Fotos",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 107,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Álbum",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 116,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "add-album",
+        "text": "Adicionar Álbum",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 127,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-gallery",
+        "text": "Salvar Galeria",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 114,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-footer",
+        "text": "Salvar Footer",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 110,
+        "height": 35,
+        "label": 0
+      }
+    ],
+    "headingSizes": [
+      {
+        "id": "",
+        "text": "Administração do Site - Divino Drin",
+        "tag": "H1",
+        "font": "Poppins, sans-serif",
+        "size": "32px",
+        "width": 350,
+        "height": 77,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Hero",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 308,
+        "height": 29,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Badges",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 72,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Quem Somos",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 308,
+        "height": 29,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Cards",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 308,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Card",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Card",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Card",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Serviços",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 308,
+        "height": 29,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Cards",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 308,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Serviço",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Serviço",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Serviço",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Serviço",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Depoimentos",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 308,
+        "height": 29,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Depoimento",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Depoimento",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Depoimento",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Depoimento",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Galeria",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 308,
+        "height": 29,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Álbum 1",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Álbum 2",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Álbum 3",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Footer",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 308,
+        "height": 29,
+        "label": null
+      }
+    ],
+    "heroBadges": {
+      "display": "flex",
+      "animation": "heroFade",
+      "opacity": "1"
+    },
+    "previews": [
+      {
+        "id": "hero-bg-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 63,
+        "label": null
+      },
+      {
+        "id": "service-0-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      },
+      {
+        "id": "service-1-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      },
+      {
+        "id": "service-2-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 67,
+        "label": null
+      },
+      {
+        "id": "service-3-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      },
+      {
+        "id": "testimonial-0-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 67,
+        "label": null
+      },
+      {
+        "id": "testimonial-1-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 105,
+        "label": null
+      },
+      {
+        "id": "testimonial-2-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 80,
+        "label": null
+      },
+      {
+        "id": "testimonial-3-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 80,
+        "label": null
+      },
+      {
+        "id": "album-0-thumb-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      },
+      {
+        "id": "album-1-thumb-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      },
+      {
+        "id": "album-2-thumb-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      }
+    ],
+    "textLight": "",
+    "dirtyState": [],
+    "controls": 39
+  },
+  "mobileAdminAllOpen": {
+    "viewport": 390,
+    "documentWidth": 441,
+    "unlabelled": [
+      {
+        "id": "hero-title",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 52,
+        "label": 0
+      },
+      {
+        "id": "hero-subtitle",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "about-desc",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 97,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Acreditamos que cada cliente é únic",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nossa estrutura foi pensada para of",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nosso maior diferencial está nas pe",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nossa Alta Coquetelaria apresenta u",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nosso open bar é Infinito, sem paus",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Um coquetel de boas-vindas, servido",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Oferecemos um menu exclusivo e tota",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Estão de parabéns! Uns drinks espet",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "O bar foi o ponto alto do casamento",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Desde o primeiro contato, fiquei im",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Sério, eu nem sei por onde começar!",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      }
+    ],
+    "smallInputs": [
+      {
+        "id": "hero-title",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 52,
+        "label": 0
+      },
+      {
+        "id": "hero-subtitle",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "hero-instagram-url",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 37,
+        "label": 1
+      },
+      {
+        "id": "hero-whatsapp-phone",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 37,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 199,
+        "height": 41,
+        "label": 1
+      },
+      {
+        "id": "about-desc",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 97,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Acreditamos que cada cliente é únic",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nossa estrutura foi pensada para of",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nosso maior diferencial está nas pe",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nossa Alta Coquetelaria apresenta u",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Nosso open bar é Infinito, sem paus",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Um coquetel de boas-vindas, servido",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Oferecemos um menu exclusivo e tota",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 82,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Estão de parabéns! Uns drinks espet",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "O bar foi o ponto alto do casamento",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Desde o primeiro contato, fiquei im",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Sério, eu nem sei por onde começar!",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 67,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 276,
+        "height": 37,
+        "label": 0
+      },
+      {
+        "id": "footer-description-input",
+        "text": "",
+        "tag": "TEXTAREA",
+        "font": "monospace",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 67,
+        "label": 1
+      },
+      {
+        "id": "footer-contact",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 37,
+        "label": 1
+      },
+      {
+        "id": "footer-phone",
+        "text": "",
+        "tag": "INPUT",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 308,
+        "height": 37,
+        "label": 1
+      }
+    ],
+    "buttons": [
+      {
+        "id": "",
+        "text": "Logout",
+        "tag": "A",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 84,
+        "height": 46,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "add-hero-badge",
+        "text": "Adicionar Badge",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 128,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-hero",
+        "text": "Salvar Hero",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 100,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Card",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 107,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Card",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 107,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Card",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 107,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "add-about-card",
+        "text": "Adicionar Card",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 118,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-about",
+        "text": "Salvar Quem Somos",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 153,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Serviço",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 122,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Serviço",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 122,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Serviço",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 122,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Serviço",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 122,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "add-service-card",
+        "text": "Adicionar Serviço",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 134,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-services",
+        "text": "Salvar Serviços",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 123,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Depoimento",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 150,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Depoimento",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 150,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Depoimento",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 150,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Arquivo",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 124,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Depoimento",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 150,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "add-testimonial",
+        "text": "Adicionar Depoimento",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 161,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-testimonials",
+        "text": "Salvar Depoimentos",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 150,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Capa",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 113,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Adicionar Fotos",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 107,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Álbum",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 116,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Capa",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 113,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Adicionar Fotos",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 107,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Álbum",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 116,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Selecionar Capa",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 113,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Adicionar Fotos",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "12px",
+        "width": 107,
+        "height": 30,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 74,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "",
+        "text": "Remover Álbum",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 116,
+        "height": 25,
+        "label": 0
+      },
+      {
+        "id": "add-album",
+        "text": "Adicionar Álbum",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 127,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-gallery",
+        "text": "Salvar Galeria",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 114,
+        "height": 35,
+        "label": 0
+      },
+      {
+        "id": "save-footer",
+        "text": "Salvar Footer",
+        "tag": "BUTTON",
+        "font": "Arial",
+        "size": "13.3333px",
+        "width": 110,
+        "height": 35,
+        "label": 0
+      }
+    ],
+    "headingSizes": [
+      {
+        "id": "",
+        "text": "Administração do Site - Divino Drin",
+        "tag": "H1",
+        "font": "Poppins, sans-serif",
+        "size": "32px",
+        "width": 350,
+        "height": 77,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Hero",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 308,
+        "height": 29,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Badges",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 72,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Quem Somos",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 308,
+        "height": 29,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Cards",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 308,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Card",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Card",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Card",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Serviços",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 308,
+        "height": 29,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Cards",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 308,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Serviço",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Serviço",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Serviço",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Serviço",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Depoimentos",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 308,
+        "height": 29,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Depoimento",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Depoimento",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Depoimento",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Depoimento",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Galeria",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 308,
+        "height": 29,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Álbum 1",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Álbum 2",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Álbum 3",
+        "tag": "H3",
+        "font": "Poppins, sans-serif",
+        "size": "18.72px",
+        "width": 276,
+        "height": 22,
+        "label": null
+      },
+      {
+        "id": "",
+        "text": "Footer",
+        "tag": "H2",
+        "font": "Poppins, sans-serif",
+        "size": "24px",
+        "width": 308,
+        "height": 29,
+        "label": null
+      }
+    ],
+    "heroBadges": {
+      "display": "flex",
+      "animation": "heroFade",
+      "opacity": "1"
+    },
+    "previews": [
+      {
+        "id": "hero-bg-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 63,
+        "label": null
+      },
+      {
+        "id": "service-0-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      },
+      {
+        "id": "service-1-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      },
+      {
+        "id": "service-2-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 67,
+        "label": null
+      },
+      {
+        "id": "service-3-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      },
+      {
+        "id": "testimonial-0-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 67,
+        "label": null
+      },
+      {
+        "id": "testimonial-1-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 105,
+        "label": null
+      },
+      {
+        "id": "testimonial-2-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 80,
+        "label": null
+      },
+      {
+        "id": "testimonial-3-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 80,
+        "label": null
+      },
+      {
+        "id": "album-0-thumb-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      },
+      {
+        "id": "album-1-thumb-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      },
+      {
+        "id": "album-2-thumb-preview",
+        "text": "",
+        "tag": "IMG",
+        "font": "Poppins, sans-serif",
+        "size": "16px",
+        "width": 100,
+        "height": 75,
+        "label": null
+      }
+    ],
+    "textLight": "",
+    "dirtyState": [],
+    "controls": 39
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "root": true,
+  "env": { "browser": true, "node": true, "es2022": true },
+  "parserOptions": { "ecmaVersion": "latest" },
+  "extends": "eslint:recommended",
+  "globals": { "ContentUtils": "readonly" },
+  "ignorePatterns": ["archive/", "node_modules/", "test-results/", "public/fonts/"],
+  "rules": { "no-unused-vars": ["error", { "argsIgnorePattern": "^_", "caughtErrors": "none", "ignoreRestSiblings": true }] }
+}
